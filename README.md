@@ -58,12 +58,12 @@ There are many ways to win in Society. The baseline condition to victory would b
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/company_institution_cards.png" width="652" height="525">
+  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/company_institution_cards.png" width="817" height="1158">
 </div>
 
 <br />
 
-Components for Society would be a pair of dice, player tokens, bills, tokens that represent resources, cards that describe events in the game or actions that players can take, a market board that describes the current prices of certain resources, and cards that show ownership and upgrade steps for companies and institutions.
+Components for Society would be a pair of dice, player tokens, bills, tokens that represent resources, cards that describe events in the game or actions that players can take, a market board that describes the current prices of certain resources, cards that show ownership and upgrade steps for companies and institutions, tokens to mark the upgrade level of a company or institution, and markers to show ownership of companies or institutions.
 
 # Cards [`↩`](#contents) <a id="cards"></a>
 
