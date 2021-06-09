@@ -21,7 +21,7 @@
 
 # Description [`↩`](#contents) <a id="description"></a>
 
-**Society** is a version of Monopoly that adds elements of Settlers of Catan for social interaction and team work. Discussions of how it could work can take place in the [Issues](https://github.com/andrewtavis/society/issues). [resources/society_designs.sketch](https://github.com/andrewtavis/society/blob/main/resources/society_designs.sketch) is a full [Sketch](https://www.sketch.com/) file that has baseline designs for the board, cards, bills, and other game elements. [resources/cards](https://github.com/andrewtavis/society/blob/main/resources/cards/) further has files that describe potential action and event cards.
+**Society** is a version of Monopoly that adds elements of Settlers of Catan for social interaction and teamwork. Discussions of how it could work can take place in the [Issues](https://github.com/andrewtavis/society/issues). [resources/society_designs.sketch](https://github.com/andrewtavis/society/blob/main/resources/society_designs.sketch) is a full [Sketch](https://www.sketch.com/) file that has baseline designs for the board, cards, bills, and other game elements. [resources/cards](https://github.com/andrewtavis/society/blob/main/resources/cards/) further has files that describe potential action and event cards.
 
 # Board [`↩`](#contents) <a id="board"></a>
 
