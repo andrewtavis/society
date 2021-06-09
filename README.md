@@ -85,6 +85,14 @@ Action cards are represented by the `!` symbol. These cards are held in a player
 
 # Resources [`↩`](#contents) <a id="resources"></a>
 
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/resource_tokens.png" width="826" height="476">
+</div>
+
+<br />
+
 ### Physical
 
 The physical resources are materials, products, energy and technology. Each is needed to upgrade businesses or institutions based on what is produced and what level is being upgraded to. Physical resources could also be required in responses to event cards.
