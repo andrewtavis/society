@@ -47,15 +47,15 @@ Along the edge of the inner board are numbers that indicate the current turn. Th
 
 <br />
 
-Components for Society would be a pair of dice, player tokens, bills, tokens that represent resources, cards that describe events in the game or actions that players can take, a market board that describes the current prices of certain resources, and cards that show ownership and upgrade steps for businesses and institutions.
+Components for Society would be a pair of dice, player tokens, bills, tokens that represent resources, cards that describe events in the game or actions that players can take, a market board that describes the current prices of certain resources, and cards that show ownership and upgrade steps for companies and institutions.
 
 # Play [`↩`](#contents) <a id="play"></a>
 
-A fundamental decision at the start of Society was that everything can be owned privately or publicly. Think of this in terms of playing Monopoly, but one of the players could own the jail. The full details of how private and public ownership of businesses and institutions has yet to be decided on.
+A fundamental decision at the start of Society was that everything can be owned privately or publicly. Think of this in terms of playing Monopoly, but one of the players could own the jail. The full details of how private and public ownership of companies and institutions has yet to be decided on.
 
 Play is similar to that of Monopoly where players role, go to the directed space, can buy it if it's unavailable, and if it's owned would then interact with the owner. Society adds resources to the game that function in a similar manner to those in Settlers of Catan. Rather than simply paying the owner and getting nothing in return as in Monopoly, Society gives a player the option to buy resources from the owner. Prices for the resources would be based on the current market price for a given resource, thus adding a macroeconomic element to the game. A player can always choose to deal with the market on their turn - potentially with a cost that would be determined by the market - but in dealing with the local economy the communal resources of all players increases, which thus allows for the society to be developed more easily.
 
-As in Monopoly, businesses and institutions can be upgraded, which then allows them to produce more of their given resource as in Settlers of Catan. Also as in Settlers, upgrades are done via a specific combination of resources rather than with money.
+As in Monopoly, companies and institutions can be upgraded, which then allows them to produce more of their given resource as in Settlers of Catan. Also as in Settlers, upgrades are done via a specific combination of resources rather than with money. Uniquely to Society though is the concept of share holding in a company. Rather than needing to buy the whole company to upgrade it, players can own shares of a company with others. Each part of the company would need to be upgraded before the next level of upgrade would be allowed. The spaces for the company on the board thus represent 50% or 33% shares, with the player than marking the space as belonging to them using the triangle above the space.
 
 Players can also choose the difficulty of the game at the start. This would entail not including some of the institutional resources (health, force, transfer costs, taxes, etc), which then would remove certain cards from the game.
 
@@ -63,7 +63,7 @@ There are many aspects of play that are yet to be figured out. Feel free to chec
 
 # Winning [`↩`](#contents) <a id="winning"></a>
 
-There are many ways to win in Society. The baseline condition to victory would be having the most resources at the end of the game, which would include the resources used to upgrade ones businesses and institutions. If playing with health, if all other players have died then the survivor would also be the winner. There is the potential to also add victory conditions such as goals that a player needs to achieve in order to win.
+There are many ways to win in Society. The baseline condition to victory would be having the most resources at the end of the game, which would include the resources used to upgrade ones companies and institutions. If playing with health, if all other players have died then the survivor would also be the winner. There is the potential to also add victory conditions such as goals that a player needs to achieve in order to win.
 
 # Cards [`↩`](#contents) <a id="cards"></a>
 
@@ -95,11 +95,11 @@ Action cards are represented by the `!` symbol. These cards are held in a player
 
 ### Physical
 
-The physical resources are materials, products, energy and technology. Each is needed to upgrade businesses or institutions based on what is produced and what level is being upgraded to. Physical resources could also be required in responses to event cards.
+The physical resources are materials, products, energy and technology. Each is needed to upgrade companies or institutions based on what is produced and what level is being upgraded to. Physical resources could also be required in responses to event cards.
 
 ### Institutional
 
-The institutional resources are knowledge, influence, health and force. Each of these is used in varying ways throughout play, with knowledge and influence being predominantly used to develop businesses or institutions, health being needed to stay alive or out of a hospital, and force being used to defend businesses, institutions, or player tokens.
+The institutional resources are knowledge, influence, health and force. Each of these is used in varying ways throughout play, with knowledge and influence being predominantly used to develop companies or institutions, health being needed to stay alive or out of a hospital, and force being used to defend companies, institutions, or player tokens.
 
 # The Market [`↩`](#contents) <a id="the-market"></a>
 
