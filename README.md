@@ -12,9 +12,9 @@
 
 - [Description](#description)
 - [Board](#board)
-- [Components](#components)
 - [Play](#play)
 - [Winning](#winning)
+- [Components](#components)
 - [Cards](#cards)
 - [Resources](#resources)
 - [The Market](#the-market)
@@ -37,18 +37,6 @@ The Society board is split up based on cardinal directions. This allows events i
 
 Along the edge of the inner board are numbers that indicate the current turn. This allows players to choose a turn limit before play, that events should happen at a given turn, provide players with an action card at a given turn, etc.
 
-# Components [`↩`](#contents) <a id="components"></a>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/company_institution_cards.png" width="652" height="525">
-</div>
-
-<br />
-
-Components for Society would be a pair of dice, player tokens, bills, tokens that represent resources, cards that describe events in the game or actions that players can take, a market board that describes the current prices of certain resources, and cards that show ownership and upgrade steps for companies and institutions.
-
 # Play [`↩`](#contents) <a id="play"></a>
 
 A fundamental decision at the start of Society was that everything can be owned privately or publicly. Think of this in terms of playing Monopoly, but one of the players could own the jail. The full details of how private and public ownership of companies and institutions has yet to be decided on.
@@ -64,6 +52,18 @@ There are many aspects of play that are yet to be figured out. Feel free to chec
 # Winning [`↩`](#contents) <a id="winning"></a>
 
 There are many ways to win in Society. The baseline condition to victory would be having the most resources at the end of the game, which would include the resources used to upgrade ones companies and institutions. If playing with health, if all other players have died then the survivor would also be the winner. There is the potential to also add victory conditions such as goals that a player needs to achieve in order to win.
+
+# Components [`↩`](#contents) <a id="components"></a>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/company_institution_cards.png" width="652" height="525">
+</div>
+
+<br />
+
+Components for Society would be a pair of dice, player tokens, bills, tokens that represent resources, cards that describe events in the game or actions that players can take, a market board that describes the current prices of certain resources, and cards that show ownership and upgrade steps for companies and institutions.
 
 # Cards [`↩`](#contents) <a id="cards"></a>
 
