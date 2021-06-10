@@ -5,6 +5,7 @@
 ---
 
 [![license](https://img.shields.io/github/license/andrewtavis/society)](https://github.com/andrewtavis/society/blob/main/LICENSE.txt)
+[![coc](https://img.shields.io/badge/coc-Contributor%20Covenant-ff69b4.svg)](https://github.com/andrewtavis/society/blob/main/.github/CODE_OF_CONDUCT.md)
 
 ### A board game that mixes Settlers of Catan and Monopoly
 
