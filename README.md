@@ -33,7 +33,7 @@
 
 <br />
 
-The Society board is split up based on cardinal directions. This allows events in the game to effect certain areas of the board. For physical resources, the playing field is split so that materials and products are produced in the south, and energy and technology are produced in the north. For institutions, there is a campus in the west and east corners that each have a university and a hospital, with the north and south of the board being districts that each have their own precinct and court at the respective corners.
+The Society board is split up based on cardinal directions oriented around the game logo. This allows events in the game to effect specific areas of the board. For physical resources, the playing field is split so that materials and products are produced in the south (black), and energy and technology are produced in the north (white). For institutions, there is a campus in the west (dark grey) and east (light grey) corners that each have a university and a hospital, with the north and south of the board being districts that each have their own precinct and court at the respective corners.
 
 Along the edge of the inner board are numbers that indicate the current turn. This allows players to choose a turn limit before play, that events should happen at a given turn, provide players with an action card at a given turn, etc.
 
