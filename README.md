@@ -20,11 +20,11 @@
 - [Resources](#resources)
 - [The Market](#the-market)
 
-# Description [`↩`](#contents) <a id="description"></a>
+# Description [`⇧`](#contents) <a id="description"></a>
 
 **Society** is a version of Monopoly that adds elements of Settlers of Catan for social interaction and teamwork. Discussions of how it could work can take place in the [Issues](https://github.com/andrewtavis/society/issues). [resources/society_designs.sketch](https://github.com/andrewtavis/society/blob/main/resources/society_designs.sketch) is a full [Sketch](https://www.sketch.com/) file that has baseline designs for the board, cards, bills, and other game elements. [resources/cards](https://github.com/andrewtavis/society/blob/main/resources/cards/) further has files that describe potential action and event cards.
 
-# Board [`↩`](#contents) <a id="board"></a>
+# Board [`⇧`](#contents) <a id="board"></a>
 
 <br />
 
@@ -38,7 +38,7 @@ The Society board is split up based on cardinal directions oriented around the g
 
 Along the edge of the inner board are numbers that indicate the current turn. This allows players to choose a turn limit before play, that events should happen at a given turn, provide players with an action card at a given turn, etc.
 
-# Play [`↩`](#contents) <a id="play"></a>
+# Play [`⇧`](#contents) <a id="play"></a>
 
 A fundamental decision at the start of Society was that everything can be owned privately or publicly. Think of this in terms of playing Monopoly, but one of the players could own the jail. The full details of how private and public ownership of companies and institutions have yet to be decided on, but the current idea is that in private ownership a player pays another for resources, and in public ownership the costs would go to the middle of the board. These communal funds and resources could then be used to upgrade public companies and institutions. Public ownership would be triggered by a player not wanting to buy something that they had landed on, with communal funds then being used to buy it if a majority of players agree to purchase it publicly. In this way there can be both public and private companies and most importantly institutions, thus simulating all baseline aspects of an economy.
 
@@ -50,11 +50,11 @@ Players can also choose the difficulty of the game at the start. This would enta
 
 There are many aspects of play that are yet to be decided on. Feel free to check the [Issues](https://github.com/andrewtavis/society/issues) or make one of your own to discuss further.
 
-# Winning [`↩`](#contents) <a id="winning"></a>
+# Winning [`⇧`](#contents) <a id="winning"></a>
 
 There are many ways to win in Society. The baseline condition to victory would be having the most resources at the end of the game's turn limit, with this including the resources used to upgrade ones companies and institutions. If playing with health, if all other players have died then the survivor would also be the winner. There is the potential to also add victory conditions such as goals that a player needs to achieve in order to win.
 
-# Components [`↩`](#contents) <a id="components"></a>
+# Components [`⇧`](#contents) <a id="components"></a>
 
 <br />
 
@@ -66,7 +66,7 @@ There are many ways to win in Society. The baseline condition to victory would b
 
 Components for Society would be a pair of dice, player tokens, bills, tokens that represent resources, cards that describe events in the game or actions that players can take, a market board that describes the current prices of certain resources, cards that show ownership and upgrade steps for companies and institutions, tokens to mark the upgrade level of a company or institution, and markers to show ownership of companies or institutions.
 
-# Cards [`↩`](#contents) <a id="cards"></a>
+# Cards [`⇧`](#contents) <a id="cards"></a>
 
 <br />
 
@@ -84,7 +84,7 @@ Event cards are represented by the `?` symbol. They are played instantly, with p
 
 Action cards are represented by the `!` symbol. These cards are held in a player's hand and played throughout the game. Certain cards could necessarily be played during a player's turn, while others could be played at other times to disrupt the turns of others.
 
-# Resources [`↩`](#contents) <a id="resources"></a>
+# Resources [`⇧`](#contents) <a id="resources"></a>
 
 <br />
 
@@ -102,7 +102,7 @@ The physical resources are materials, products, energy and technology. Each is n
 
 The institutional resources are knowledge, influence, health and force. Each of these is used in varying ways throughout play, with knowledge and influence being predominantly used to develop companies or institutions, health being needed to stay alive or out of a hospital, and force being used to defend companies, institutions, or player tokens.
 
-# The Market [`↩`](#contents) <a id="the-market"></a>
+# The Market [`⇧`](#contents) <a id="the-market"></a>
 
 <br />
 
