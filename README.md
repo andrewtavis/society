@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/andrewtavis/society"><img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/society_logo_transparent.png" width="664" height="168"></a>
+  <a href="https://github.com/andrewtavis/society"><img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/society_logo_transparent.png" width="498" height="126"></a>
 </div>
 
 ---
