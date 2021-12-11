@@ -29,7 +29,7 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/society_board.png" width="650" height="650">
+  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/society_board.png" width="650" height="650">
 </div>
 
 <br />
@@ -59,7 +59,7 @@ There are many ways to win in Society. The baseline condition to victory would b
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/company_institution_cards.png" width="817" height="1158">
+  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/company_institution_cards.png" width="817" height="1158">
 </div>
 
 <br />
@@ -71,7 +71,7 @@ Components for Society would be a pair of dice, player tokens, bills, tokens tha
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/event_action_cards.png" width="750" height="250">
+  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/event_action_cards.png" width="750" height="250">
 </div>
 
 <br />
@@ -89,7 +89,7 @@ Action cards are represented by the `!` symbol. These cards are held in a player
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/resource_tokens.png" width="826" height="476">
+  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/resource_tokens.png" width="826" height="476">
 </div>
 
 <br />
@@ -107,7 +107,7 @@ The institutional resources are knowledge, influence, health and force. Each of 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/gh_images/the_market.png" width="750" height="619">
+  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/the_market.png" width="750" height="619">
 </div>
 
 <br />

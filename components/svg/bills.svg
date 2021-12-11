@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2758px" height="1584px" viewBox="0 0 2758 1584" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F2F2F2;">
+    <title>bills</title>
+    <g id="bills" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="debt_100" transform="translate(2194.000000, 563.000000)">
+            <rect id="Rectangle" fill="#C0C0C0" x="63.5405845" y="63.5405845" width="500" height="500"></rect>
+            <text id="DEBT" font-family="PTSans-Bold, PT Sans" font-size="100" font-weight="bold" fill="#000000">
+                <tspan x="198.6" y="456">DEBT</tspan>
+            </text>
+            <rect id="Rectangle" fill="#000000" x="144.540585" y="362.540585" width="338" height="6" rx="3"></rect>
+            <text id="100" font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#000000">
+                <tspan x="143.940585" y="337.540585">100</tspan>
+            </text>
+            <polygon id="Triangle" fill="#000000" transform="translate(536.000000, 536.500000) rotate(135.000000) translate(-536.000000, -536.500000) " points="536 499 611 574 461 574"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(91.000000, 536.500000) rotate(225.000000) translate(-91.000000, -536.500000) " points="91 499 166 574 16 574"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(536.000000, 90.500000) rotate(45.000000) translate(-536.000000, -90.500000) " points="536 53 611 128 461 128"></polygon>
+            <path d="M531,490.242641 L613.757359,573 L448.242641,573 L531,490.242641 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(531.000000, 531.000000) rotate(135.000000) translate(-531.000000, -531.000000) "></path>
+            <path d="M96,490.242641 L178.757359,573 L13.2426407,573 L96,490.242641 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(96.000000, 531.000000) rotate(225.000000) translate(-96.000000, -531.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M531,55.2426407 L613.757359,138 L448.242641,138 L531,55.2426407 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(531.000000, 96.000000) rotate(45.000000) translate(-531.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#C0C0C0" stroke-width="12" x="69.5405845" y="69.5405845" width="488" height="488"></rect>
+        </g>
+        <g id="debt_10" transform="translate(1567.000000, 563.000000)">
+            <rect id="Rectangle" fill="#555555" x="63.5405845" y="63.5405845" width="500" height="500"></rect>
+            <text id="DEBT" font-family="PTSans-Bold, PT Sans" font-size="100" font-weight="bold" fill="#FFFFFF">
+                <tspan x="198.6" y="456">DEBT</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFFFFF" x="144.540585" y="362.540585" width="338" height="6" rx="3"></rect>
+            <text id="10" font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#FFFFFF">
+                <tspan x="200.640585" y="337.540585">10</tspan>
+            </text>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(536.000000, 536.500000) rotate(135.000000) translate(-536.000000, -536.500000) " points="536 499 611 574 461 574"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(91.000000, 536.500000) rotate(225.000000) translate(-91.000000, -536.500000) " points="91 499 166 574 16 574"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(536.000000, 90.500000) rotate(45.000000) translate(-536.000000, -90.500000) " points="536 53 611 128 461 128"></polygon>
+            <path d="M531,490.242641 L613.757359,573 L448.242641,573 L531,490.242641 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(531.000000, 531.000000) rotate(135.000000) translate(-531.000000, -531.000000) "></path>
+            <path d="M96,490.242641 L178.757359,573 L13.2426407,573 L96,490.242641 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(96.000000, 531.000000) rotate(225.000000) translate(-96.000000, -531.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M531,55.2426407 L613.757359,138 L448.242641,138 L531,55.2426407 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(531.000000, 96.000000) rotate(45.000000) translate(-531.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#555555" stroke-width="12" x="69.5405845" y="69.5405845" width="488" height="488"></rect>
+        </g>
+        <g id="loan" transform="translate(2194.000000, -64.000000)">
+            <rect id="Rectangle" fill="#000000" x="63.5405845" y="63.5405845" width="500" height="500"></rect>
+            <text id="LOAN" font-family="PTSans-Bold, PT Sans" font-size="100" font-weight="bold" fill="#C0C0C0">
+                <tspan x="198.290585" y="455.540585">LOAN</tspan>
+            </text>
+            <rect id="Rectangle" fill="#C0C0C0" x="144.540585" y="362.540585" width="338" height="6" rx="3"></rect>
+            <text id="100" font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#C0C0C0">
+                <tspan x="143.940585" y="337.540585">100</tspan>
+            </text>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(536.000000, 536.500000) rotate(135.000000) translate(-536.000000, -536.500000) " points="536 499 611 574 461 574"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(91.000000, 536.500000) rotate(225.000000) translate(-91.000000, -536.500000) " points="91 499 166 574 16 574"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(536.000000, 90.500000) rotate(45.000000) translate(-536.000000, -90.500000) " points="536 53 611 128 461 128"></polygon>
+            <path d="M531,490.242641 L613.757359,573 L448.242641,573 L531,490.242641 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(531.000000, 531.000000) rotate(135.000000) translate(-531.000000, -531.000000) "></path>
+            <path d="M96,490.242641 L178.757359,573 L13.2426407,573 L96,490.242641 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(96.000000, 531.000000) rotate(225.000000) translate(-96.000000, -531.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M531,55.2426407 L613.757359,138 L448.242641,138 L531,55.2426407 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(531.000000, 96.000000) rotate(45.000000) translate(-531.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="12" x="69.5405845" y="69.5405845" width="488" height="488"></rect>
+        </g>
+        <g id="investment" transform="translate(1567.459415, -63.540585)">
+            <rect id="Rectangle" fill="#FFFFFF" x="63.5405845" y="63.5405845" width="500" height="500"></rect>
+            <text id="INVESTMENT" font-family="PTSans-Bold, PT Sans" font-size="60" font-weight="bold" fill="#555555">
+                <tspan x="141.710585" y="435.540585">INVESTMENT</tspan>
+            </text>
+            <rect id="Rectangle" fill="#555555" x="144.540585" y="362.540585" width="338" height="6" rx="3"></rect>
+            <text id="100" font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#555555">
+                <tspan x="143.940585" y="337.540585">100</tspan>
+            </text>
+            <polygon id="Triangle" fill="#555555" transform="translate(536.000000, 536.500000) rotate(135.000000) translate(-536.000000, -536.500000) " points="536 499 611 574 461 574"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(91.000000, 536.500000) rotate(225.000000) translate(-91.000000, -536.500000) " points="91 499 166 574 16 574"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(536.000000, 90.500000) rotate(45.000000) translate(-536.000000, -90.500000) " points="536 53 611 128 461 128"></polygon>
+            <path d="M531,490.242641 L613.757359,573 L448.242641,573 L531,490.242641 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(531.000000, 531.000000) rotate(135.000000) translate(-531.000000, -531.000000) "></path>
+            <path d="M96,490.242641 L178.757359,573 L13.2426407,573 L96,490.242641 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(96.000000, 531.000000) rotate(225.000000) translate(-96.000000, -531.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M531,55.2426407 L613.757359,138 L448.242641,138 L531,55.2426407 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(531.000000, 96.000000) rotate(45.000000) translate(-531.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="12" x="69.5405845" y="69.5405845" width="488" height="488"></rect>
+        </g>
+        <g id="500" transform="translate(-64.000000, -64.000000)">
+            <rect id="Rectangle" fill="#000000" x="64" y="64" width="600" height="300"></rect>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(637.000000, 337.500000) rotate(135.000000) translate(-637.000000, -337.500000) " points="637 300 712 375 562 375"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(91.000000, 337.500000) rotate(225.000000) translate(-91.000000, -337.500000) " points="91 300 166 375 16 375"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(637.000000, 90.500000) rotate(45.000000) translate(-637.000000, -90.500000) " points="637 53 712 128 562 128"></polygon>
+            <path d="M632,291.242641 L714.757359,374 L549.242641,374 L632,291.242641 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(632.000000, 332.000000) rotate(135.000000) translate(-632.000000, -332.000000) "></path>
+            <path d="M96,291.242641 L178.757359,374 L13.2426407,374 L96,291.242641 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(96.000000, 332.000000) rotate(225.000000) translate(-96.000000, -332.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M632,55.2426407 L714.757359,138 L549.242641,138 L632,55.2426407 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(632.000000, 96.000000) rotate(45.000000) translate(-632.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="12" x="70" y="70" width="588" height="288"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="195" y="273" width="338" height="6" rx="3"></rect>
+            <text font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#FFFFFF">
+                <tspan x="193.4" y="248">500</tspan>
+            </text>
+            <text id="SOCIETY" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-size="50" font-weight="bold" fill="#FFFFFF">
+                <tspan x="252.625" y="337">SOCIETY</tspan>
+            </text>
+        </g>
+        <g id="200" transform="translate(-64.000000, 364.000000)">
+            <rect id="Rectangle" fill="#000000" x="64" y="64" width="600" height="300"></rect>
+            <polygon id="Triangle" fill="#555555" transform="translate(637.000000, 337.500000) rotate(135.000000) translate(-637.000000, -337.500000) " points="637 300 712 375 562 375"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(91.000000, 337.500000) rotate(225.000000) translate(-91.000000, -337.500000) " points="91 300 166 375 16 375"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(637.000000, 90.500000) rotate(45.000000) translate(-637.000000, -90.500000) " points="637 53 712 128 562 128"></polygon>
+            <path d="M632,291.242641 L714.757359,374 L549.242641,374 L632,291.242641 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(632.000000, 332.000000) rotate(135.000000) translate(-632.000000, -332.000000) "></path>
+            <path d="M96,291.242641 L178.757359,374 L13.2426407,374 L96,291.242641 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(96.000000, 332.000000) rotate(225.000000) translate(-96.000000, -332.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M632,55.2426407 L714.757359,138 L549.242641,138 L632,55.2426407 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(632.000000, 96.000000) rotate(45.000000) translate(-632.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="12" x="70" y="70" width="588" height="288"></rect>
+            <rect id="Rectangle" fill="#555555" x="195" y="273" width="338" height="6" rx="3"></rect>
+            <text font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#555555">
+                <tspan x="193.4" y="248">200</tspan>
+            </text>
+            <text id="SOCIETY" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-size="50" font-weight="bold" fill="#555555">
+                <tspan x="252.625" y="338">SOCIETY</tspan>
+            </text>
+        </g>
+        <g id="100" transform="translate(-64.000000, 792.000000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="64" y="64" width="600" height="300"></rect>
+            <polygon id="Triangle" fill="#000000" transform="translate(637.000000, 337.500000) rotate(135.000000) translate(-637.000000, -337.500000) " points="637 300 712 375 562 375"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(91.000000, 337.500000) rotate(225.000000) translate(-91.000000, -337.500000) " points="91 300 166 375 16 375"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(637.000000, 90.500000) rotate(45.000000) translate(-637.000000, -90.500000) " points="637 53 712 128 562 128"></polygon>
+            <path d="M632,291.242641 L714.757359,374 L549.242641,374 L632,291.242641 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(632.000000, 332.000000) rotate(135.000000) translate(-632.000000, -332.000000) "></path>
+            <path d="M96,291.242641 L178.757359,374 L13.2426407,374 L96,291.242641 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(96.000000, 332.000000) rotate(225.000000) translate(-96.000000, -332.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M632,55.2426407 L714.757359,138 L549.242641,138 L632,55.2426407 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(632.000000, 96.000000) rotate(45.000000) translate(-632.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="12" x="70" y="70" width="588" height="288"></rect>
+            <rect id="Rectangle" fill="#000000" x="195" y="273" width="338" height="6" rx="3"></rect>
+            <text font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#000000">
+                <tspan x="193.4" y="248">100</tspan>
+            </text>
+            <text id="SOCIETY" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-size="50" font-weight="bold" fill="#000000">
+                <tspan x="252.625" y="338">SOCIETY</tspan>
+            </text>
+        </g>
+        <g id="50" transform="translate(-64.000000, 1220.000000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="64" y="64" width="600" height="300"></rect>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(637.000000, 337.500000) rotate(135.000000) translate(-637.000000, -337.500000) " points="637 300 712 375 562 375"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(91.000000, 337.500000) rotate(225.000000) translate(-91.000000, -337.500000) " points="91 300 166 375 16 375"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(637.000000, 90.500000) rotate(45.000000) translate(-637.000000, -90.500000) " points="637 53 712 128 562 128"></polygon>
+            <path d="M632,291.242641 L714.757359,374 L549.242641,374 L632,291.242641 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(632.000000, 332.000000) rotate(135.000000) translate(-632.000000, -332.000000) "></path>
+            <path d="M96,291.242641 L178.757359,374 L13.2426407,374 L96,291.242641 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(96.000000, 332.000000) rotate(225.000000) translate(-96.000000, -332.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M632,55.2426407 L714.757359,138 L549.242641,138 L632,55.2426407 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(632.000000, 96.000000) rotate(45.000000) translate(-632.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="12" x="70" y="70" width="588" height="288"></rect>
+            <rect id="Rectangle" fill="#C0C0C0" x="195" y="273" width="338" height="6" rx="3"></rect>
+            <text font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#C0C0C0">
+                <tspan x="250.1" y="248">50</tspan>
+            </text>
+            <text id="SOCIETY" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-size="50" font-weight="bold" fill="#C0C0C0">
+                <tspan x="252.625" y="338">SOCIETY</tspan>
+            </text>
+        </g>
+        <g id="20" transform="translate(764.000000, -64.000000)">
+            <rect id="Rectangle" fill="#555555" x="64" y="64" width="600" height="300"></rect>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(637.000000, 337.500000) rotate(135.000000) translate(-637.000000, -337.500000) " points="637 300 712 375 562 375"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(91.000000, 337.500000) rotate(225.000000) translate(-91.000000, -337.500000) " points="91 300 166 375 16 375"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#C0C0C0" transform="translate(637.000000, 90.500000) rotate(45.000000) translate(-637.000000, -90.500000) " points="637 53 712 128 562 128"></polygon>
+            <path d="M632,291.242641 L714.757359,374 L549.242641,374 L632,291.242641 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(632.000000, 332.000000) rotate(135.000000) translate(-632.000000, -332.000000) "></path>
+            <path d="M96,291.242641 L178.757359,374 L13.2426407,374 L96,291.242641 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(96.000000, 332.000000) rotate(225.000000) translate(-96.000000, -332.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M632,55.2426407 L714.757359,138 L549.242641,138 L632,55.2426407 Z" id="Triangle" stroke="#C0C0C0" stroke-width="6" transform="translate(632.000000, 96.000000) rotate(45.000000) translate(-632.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#555555" stroke-width="12" x="70" y="70" width="588" height="288"></rect>
+            <rect id="Rectangle" fill="#C0C0C0" x="195" y="273" width="338" height="6" rx="3"></rect>
+            <text font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#C0C0C0">
+                <tspan x="251.1" y="248">20</tspan>
+            </text>
+            <text id="SOCIETY" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-size="50" font-weight="bold" fill="#C0C0C0">
+                <tspan x="253.625" y="338">SOCIETY</tspan>
+            </text>
+        </g>
+        <g id="10" transform="translate(764.000000, 364.000000)">
+            <rect id="Rectangle" fill="#555555" x="64" y="64" width="600" height="300"></rect>
+            <polygon id="Triangle" fill="#000000" transform="translate(637.000000, 337.500000) rotate(135.000000) translate(-637.000000, -337.500000) " points="637 300 712 375 562 375"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(91.000000, 337.500000) rotate(225.000000) translate(-91.000000, -337.500000) " points="91 300 166 375 16 375"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#000000" transform="translate(637.000000, 90.500000) rotate(45.000000) translate(-637.000000, -90.500000) " points="637 53 712 128 562 128"></polygon>
+            <path d="M632,291.242641 L714.757359,374 L549.242641,374 L632,291.242641 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(632.000000, 332.000000) rotate(135.000000) translate(-632.000000, -332.000000) "></path>
+            <path d="M96,291.242641 L178.757359,374 L13.2426407,374 L96,291.242641 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(96.000000, 332.000000) rotate(225.000000) translate(-96.000000, -332.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M632,55.2426407 L714.757359,138 L549.242641,138 L632,55.2426407 Z" id="Triangle" stroke="#000000" stroke-width="6" transform="translate(632.000000, 96.000000) rotate(45.000000) translate(-632.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#555555" stroke-width="12" x="70" y="70" width="588" height="288"></rect>
+            <rect id="Rectangle" fill="#000000" x="195" y="273" width="338" height="6" rx="3"></rect>
+            <text font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#000000">
+                <tspan x="251.1" y="248">10</tspan>
+            </text>
+            <text id="SOCIETY" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-size="50" font-weight="bold" fill="#000000">
+                <tspan x="253.625" y="338">SOCIETY</tspan>
+            </text>
+        </g>
+        <g id="5" transform="translate(764.000000, 792.000000)">
+            <rect id="Rectangle" fill="#C0C0C0" x="64" y="64" width="600" height="300"></rect>
+            <polygon id="Triangle" fill="#555555" transform="translate(637.000000, 337.500000) rotate(135.000000) translate(-637.000000, -337.500000) " points="637 300 712 375 562 375"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(91.000000, 337.500000) rotate(225.000000) translate(-91.000000, -337.500000) " points="91 300 166 375 16 375"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#555555" transform="translate(637.000000, 90.500000) rotate(45.000000) translate(-637.000000, -90.500000) " points="637 53 712 128 562 128"></polygon>
+            <path d="M632,291.242641 L714.757359,374 L549.242641,374 L632,291.242641 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(632.000000, 332.000000) rotate(135.000000) translate(-632.000000, -332.000000) "></path>
+            <path d="M96,291.242641 L178.757359,374 L13.2426407,374 L96,291.242641 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(96.000000, 332.000000) rotate(225.000000) translate(-96.000000, -332.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M632,55.2426407 L714.757359,138 L549.242641,138 L632,55.2426407 Z" id="Triangle" stroke="#555555" stroke-width="6" transform="translate(632.000000, 96.000000) rotate(45.000000) translate(-632.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#C0C0C0" stroke-width="12" x="70" y="70" width="588" height="288"></rect>
+            <rect id="Rectangle" fill="#555555" x="195" y="273" width="338" height="6" rx="3"></rect>
+            <text font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#555555">
+                <tspan x="307.3" y="248">5</tspan>
+            </text>
+            <text id="SOCIETY" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-size="50" font-weight="bold" fill="#555555">
+                <tspan x="253.625" y="338">SOCIETY</tspan>
+            </text>
+        </g>
+        <g id="1" transform="translate(764.000000, 1220.000000)">
+            <rect id="Rectangle" fill="#C0C0C0" x="64" y="64" width="600" height="300"></rect>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(637.000000, 337.500000) rotate(135.000000) translate(-637.000000, -337.500000) " points="637 300 712 375 562 375"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(91.000000, 337.500000) rotate(225.000000) translate(-91.000000, -337.500000) " points="91 300 166 375 16 375"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(91.000000, 91.500000) rotate(315.000000) translate(-91.000000, -91.500000) " points="91 54 166 129 16 129"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(637.000000, 90.500000) rotate(45.000000) translate(-637.000000, -90.500000) " points="637 53 712 128 562 128"></polygon>
+            <path d="M632,291.242641 L714.757359,374 L549.242641,374 L632,291.242641 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(632.000000, 332.000000) rotate(135.000000) translate(-632.000000, -332.000000) "></path>
+            <path d="M96,291.242641 L178.757359,374 L13.2426407,374 L96,291.242641 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(96.000000, 332.000000) rotate(225.000000) translate(-96.000000, -332.000000) "></path>
+            <path d="M96,55.2426407 L178.757359,138 L13.2426407,138 L96,55.2426407 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(96.000000, 96.000000) rotate(315.000000) translate(-96.000000, -96.000000) "></path>
+            <path d="M632,55.2426407 L714.757359,138 L549.242641,138 L632,55.2426407 Z" id="Triangle" stroke="#FFFFFF" stroke-width="6" transform="translate(632.000000, 96.000000) rotate(45.000000) translate(-632.000000, -96.000000) "></path>
+            <rect id="Rectangle" stroke="#C0C0C0" stroke-width="12" x="70" y="70" width="588" height="288"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="195" y="273" width="338" height="6" rx="3"></rect>
+            <text font-family="PTSans-Bold, PT Sans" font-size="200" font-weight="bold" fill="#FFFFFF">
+                <tspan x="307.3" y="248">1</tspan>
+            </text>
+            <text id="SOCIETY" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-size="50" font-weight="bold" fill="#FFFFFF">
+                <tspan x="253.625" y="338">SOCIETY</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
