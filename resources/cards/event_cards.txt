@@ -1,122 +1,121 @@
-Renewable Realignment 
- Place this card on the board. So long as it’s in play, all orange renewable energy spaces produce double, and all indigo non-renewable spaces produce half.  
+Renewable Realignment
+ Place this card on the board. So long as it’s in play, all orange renewable energy spaces produce double, and all indigo non-renewable spaces produce half.
 
-Title 
- Roll a single die until you get a 1, 2, 3, or 4. That side of the board…  
+Title
+ Roll a single die until you get a 1, 2, 3, or 4. That side of the board…
 
-Title 
- Roll a single die until you get a number corresponding with a player. That player…    
+Title
+ Roll a single die until you get a number corresponding with a player. That player…
 
-Regulation 
- Place this card on the board. So long as it’s in play, the hemp farm produces no resources.  
+Regulation
+ Place this card on the board. So long as it’s in play, the hemp farm produces no resources.
 
-Market Shortage 
- Roll a single die until you get a 1, 2, 3, or 4. Market transactions for a resource cannot be completed corresponding to:  Raw materials  Products  Energy  Technology  
+Market Shortage
+ Roll a single die until you get a 1, 2, 3, or 4. Market transactions for a resource cannot be completed corresponding to:  Raw materials  Products  Energy  Technology
 
-Emergency” Cancelation 
- The next election is canceled. All current taxation laws are maintained.    
+Emergency” Cancellation
+ The next election is canceled. All current taxation laws are maintained.
 
-Market Influx 
- Roll a single die until you get a 1, 2, 3, or 4. The market price is halved for a resource corresponding to:  Raw materials  Products  Energy  Technology  
+Market Influx
+ Roll a single die until you get a 1, 2, 3, or 4. The market price is halved for a resource corresponding to:  Raw materials  Products  Energy  Technology
 
-Trade War 
- Roll a single die until you get a 1, 2, 3, or 4. The market tax rate is halved for a resource corresponding to:  Raw materials  Products  Energy  Technology  
+Trade War
+ Roll a single die until you get a 1, 2, 3, or 4. The market tax rate is halved for a resource corresponding to:  Raw materials  Products  Energy  Technology
 
-Helicopter Money 
- All players receive X dollars.    
+Helicopter Money
+ All players receive X dollars.
 
-A Breath of Fresh Air 
- Place this card on the board with three turn tokens. To reduce air pollution, indigo non-renewable energy spaces don’t produce while it is in play.  
+A Breath of Fresh Air
+ Place this card on the board with three turn tokens. To reduce air pollution, indigo non-renewable energy spaces don’t produce while it is in play.
 
-Super Germ (See Rules) 
- Roll a single die until you get a number corresponding with a player. That player is infected with the Super Germ and goes to the nearest hospital for three turns, inflicting two HP each turn. Each turn that Super Germ is in play roll again. Super Germ cannot infect players again or players in hospitals, and is out of play when no players are infected.    
+Super Germ (See Rules)
+ Roll a single die until you get a number corresponding with a player. That player is infected with the Super Germ and goes to the nearest hospital for three turns, inflicting two HP each turn. Each turn that Super Germ is in play roll again. Super Germ cannot infect players again or players in hospitals, and is out of play when no players are infected.
 
-Time Thieves 
- If playing with a turn limit, move the turn marker forward two turns. If not, discard this card and draw another event.  
+Time Thieves
+ If playing with a turn limit, move the turn marker forward two turns. If not, discard this card and draw another event.
 
-Eternel Darkness 
- Place this card on the board with four turn tokens. The solar cells do not produce while it is in play.  
+Eternal Darkness
+ Place this card on the board with four turn tokens. The solar cells do not produce while it is in play.
 
-Locusts 
- A  
+Locusts
+ A
 
-Wildfire 
- Block: force and influence  A wildfire rages on the green forest space - destroying all its development. Roll a die.  1-4: Developments on neighboring spaces are destroyed.  5-6: Developments on spaces one and two spaces away are destroyed.  
+Wildfire
+ Block: force and influence  A wildfire rages on the green forest space - destroying all its development. Roll a die.  1-4: Developments on neighboring spaces are destroyed.  5-6: Developments on spaces one and two spaces away are destroyed.
 
-Title 
- TV reduces players’ knowledge.  
+Title
+ TV reduces players’ knowledge.
 
-Supersized 
- The player who draws this card loses one HP. If this is drawn during event time, then all players lose one HP.  
+Supersized
+ The player who draws this card loses one HP. If this is drawn during event time, then all players lose one HP.
 
-Title (Force 5) 
- A company is attacked.  
+Title (Force 5)
+ A company is attacked.
 
-Virus 
- Roll a single die, where 1-3 is side 2, and 4-6 is side 4. Technology on the given side doesn’t produce until the owners pay… per property.  
+Virus
+ Roll a single die, where 1-3 is side 2, and 4-6 is side 4. Technology on the given side doesn’t produce until the owners pay… per property.
 
-Climate Disaster (See rules) 
- 
+Climate Disaster (See rules)
 
-Influenza 
- Place this card on the board. Each player must roll a die at the start of their next turn. If it is a 1 or a 2, that player must pay one HP. Then four turn tokens on this card, and repeat the above when no turn tokens are on it.  
 
-A 
- Add X resource to the Public Fund.  
+Influenza
+ Place this card on the board. Each player must roll a die at the start of their next turn. If it is a 1 or a 2, that player must pay one HP. Then four turn tokens on this card, and repeat the above when no turn tokens are on it.
 
-A Crack in the Dam 
- Place this card on the board. The orange dam produces no resources until the cost is paid.  
+A
+ Add X resource to the Public Fund.
 
-Oil Spill 
- A  
+A Crack in the Dam
+ Place this card on the board. The orange dam produces no resources until the cost is paid.
 
-Riot! 
- Roll two dice one after the other. The first dictates the side, and the second the property that is attacked.  
+Oil Spill
+ A
 
-Outbreak in the Ward 
- Roll a die, with 1-3 being the West Hospital and 4-6 being the East. Discard half the health tokens in that hospital.  
+Riot!
+ Roll two dice one after the other. The first dictates the side, and the second the property that is attacked.
 
-School Tax 
- All players pay 10% of their current cash to the Public Fund to support education.  
+Outbreak in the Ward
+ Roll a die, with 1-3 being the West Hospital and 4-6 being the East. Discard half the health tokens in that hospital.
 
-Title 
- Each player roles a die and receives that many force tokens.  
+School Tax
+ All players pay 10% of their current cash to the Public Fund to support education.
 
-Double Feature 
- Draw an additional two event cards this turn.  
+Title
+ Each player roles a die and receives that many force tokens.
 
-Market Push 
- All players receive three transfer tokens.  
+Double Feature
+ Draw an additional two event cards this turn.
 
-Debt Relief 
- The debts of all players are voided. If no player has debts, then all players receive XYZ.  
+Market Push
+ All players receive three transfer tokens.
 
-Loan Forgiveness 
- All outstanding loans are voided.  
+Debt Relief
+ The debts of all players are voided. If no player has debts, then all players receive XYZ.
 
-Zero Interest 
- Place this card on the board with five turn tokens on it. Loans paid out while it’s in play require no interest to be paid.  
+Loan Forgiveness
+ All outstanding loans are voided.
 
-Foreign War 
- Roll a single die to determine the length of a foreign war, and put that many turn tokens on it. The market price for force is doubled while this card is in play, and is reduced one level once it is removed from play.  
+Zero Interest
+ Place this card on the board with five turn tokens on it. Loans paid out while it’s in play require no interest to be paid.
 
-Positive Demand Shock 
- 
+Foreign War
+ Roll a single die to determine the length of a foreign war, and put that many turn tokens on it. The market price for force is doubled while this card is in play, and is reduced one level once it is removed from play.
 
-Negative Demand Shock 
- 
+Positive Demand Shock
 
-Stagflation 
- 
 
-Depression 
- 
+Negative Demand Shock
 
-Rise in Unemployment 
- 
 
-Technology Shock 
- The Public Fund receives five technology tokens.  
+Stagflation
 
-Price Shock 
- 
+
+Depression
+
+
+Rise in Unemployment
+
+
+Technology Shock
+ The Public Fund receives five technology tokens.
+
+Price Shock

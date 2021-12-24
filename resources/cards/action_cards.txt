@@ -1,227 +1,227 @@
-Herbal Prescription 
- Put this card in front of you. Pick up a health token each time you pass Green Hemp, and two if you own it.  
+Herbal Prescription
+ Put this card in front of you. Pick up a health token each time you pass Green Hemp, and two if you own it.
 
-Mood Indigo 
- Proceed to any indigo space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Mood Indigo
+ Proceed to any indigo space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Nature Calls 
- Proceed to any green space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Nature Calls
+ Proceed to any green space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Rampage 
- Force can be used on all things a player passes this turn.  
+Rampage
+ Force can be used on all things a player passes this turn.
 
-Just a Peak 
- Look at the action cards in another players hand.  
+Just a Peak
+ Look at the action cards in another players hand.
 
-Foreign Influence 
- Receive five influence tokens from the market.  
+Foreign Influence
+ Receive five influence tokens from the market.
 
-Whistleblower 
- Choose a player and take three influence tokens from them.  
+Whistleblower
+ Choose a player and take three influence tokens from them.
 
-One Small Step 
- Play this card before a player rolls. They can only roll one die this turn.  
+One Small Step
+ Play this card before a player rolls. They can only roll one die this turn.
 
-One Giant Leap 
- Play this card before a player rolls. They roll three dice this turn.  
+One Giant Leap
+ Play this card before a player rolls. They roll three dice this turn.
 
-Snap! 
- An election happens at the end of this turn.  
+Snap!
+ An election happens at the end of this turn.
 
-The Invisible Hand 
- Halve or double the market rate for a resource of your choosing.  
+The Invisible Hand
+ Halve or double the market rate for a resource of your choosing.
 
-Title 
- Reset the taxes for a side of your choosing.  
+Title
+ Reset the taxes for a side of your choosing.
 
-Embargo 
- Place this card on the board with three turn tokens on it. Market transactions for a resource of your choosing cannot be completed while it’s in play.  
+Embargo
+ Place this card on the board with three turn tokens on it. Market transactions for a resource of your choosing cannot be completed while it’s in play.
 
-Deja Vu 
- Look through the discarded action cards and take one into your hand.  
+Deja Vu
+ Look through the discarded action cards and take one into your hand.
 
-Event Insurance 
- Place this card in front of you and indicate a single property or monopoly. It can no longer be effected by events while this card is in play.    
+Event Insurance
+ Place this card in front of you and indicate a single property or monopoly. It can no longer be effected by events while this card is in play.
 
-Presidential Pardon 
- Cost: influence  Proceed from jail on your next turn.  
+Presidential Pardon
+ Cost: influence  Proceed from jail on your next turn.
 
-Emergency Check Up 
- Proceed to the next hospital. Do not collect institutional resources.  
+Emergency Check Up
+ Proceed to the next hospital. Do not collect institutional resources.
 
-Vaccination 
- Cost: 5 Knowledge, SD  Eliminate any disease card in play.  
+Vaccination
+ Cost: 5 Knowledge, SD  Eliminate any disease card in play.
 
-Port 
- Place this card in front of you and name a resource. The market rate for that resource is halved for you as long as this card is in play.  
+Port
+ Place this card in front of you and name a resource. The market rate for that resource is halved for you as long as this card is in play.
 
-Pick Pocket 
- Choose a player. Select one action card at random from their hand.  
+Pick Pocket
+ Choose a player. Select one action card at random from their hand.
 
-Oooo La La 
- Play this card immediately. Collect 50 SD from the market for a second place finish in a beauty contest.  
+Oooo La La
+ Play this card immediately. Collect 50 SD from the market for a second place finish in a beauty contest.
 
-Recycled Parts 
- Save one technology token in a transaction.    
+Recycled Parts
+ Save one technology token in a transaction.
 
-Snooze and Lose 
- Play this card immediately. You were robbed on the train as you slept. Lose 50 SD.  
+Snooze and Lose
+ Play this card immediately. You were robbed on the train as you slept. Lose 50 SD.
 
-Title 
- Prevent a use of force.  
+Title
+ Prevent a use of force.
 
-No 
- Cancel another action card from being played.  
+No
+ Cancel another action card from being played.
 
-Intervention 
- Go to the space where force is being used. That force now engages you.    
+Intervention
+ Go to the space where force is being used. That force now engages you.
 
-Handsome Donation 
- Pay double the cost for an institution, and the sale cannot be blocked.  
+Handsome Donation
+ Pay double the cost for an institution, and the sale cannot be blocked.
 
-Institutional Realignment 
- Move up to five institutional tokens from one corner of the board to the opposite corner.  
+Institutional Realignment
+ Move up to five institutional tokens from one corner of the board to the opposite corner.
 
-Crystal Ball 
- Look at the top two cards on the event deck.    
+Crystal Ball
+ Look at the top two cards on the event deck.
 
-Title 
- Proceed to the nearest institutions square. If you have completed a transaction this turn, do not complete another.    
+Title
+ Proceed to the nearest institutions square. If you have completed a transaction this turn, do not complete another.
 
-A Blind Eye 
- Public force cannot be used this turn.  
+A Blind Eye
+ Public force cannot be used this turn.
 
-Pushed Forward 
- Play this card immediately. Role one die, and move forward the number of spaces shown. You may complete a transaction.  
+Pushed Forward
+ Play this card immediately. Role one die, and move forward the number of spaces shown. You may complete a transaction.
 
-Stroke of Genius 
- Play this card immediately. Get knowledge.  
+Stroke of Genius
+ Play this card immediately. Get knowledge.
 
-Loss of Face 
- Play this card immediately. Lose influence.  
+Loss of Face
+ Play this card immediately. Lose influence.
 
-Backup 
- Get three additional personal force.  
+Backup
+ Get three additional personal force.
 
-Reinforcements 
- Choose a public precinct. It receives three extra force.  
+Reinforcements
+ Choose a public precinct. It receives three extra force.
 
-Free Ride 
- Pay nothing the next time you receive knowledge from a university.  
+Free Ride
+ Pay nothing the next time you receive knowledge from a university.
 
-Double Dip 
- Play an additional two action cards this turn.  
+Double Dip
+ Play an additional two action cards this turn.
 
-Boobytraps 
- Prevent the use of force on one of your properties this turn. The remaining force is halved.  
+Boobytraps
+ Prevent the use of force on one of your properties this turn. The remaining force is halved.
 
-Kind of Blue 
- Proceed to any blue space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Kind of Blue
+ Proceed to any blue space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Forest Walk 
- Proceed to the green forest. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Forest Walk
+ Proceed to the green forest. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Prison Riot 
- Cost: force  Proceed from jail on your next turn.  
+Prison Riot
+ Cost: force  Proceed from jail on your next turn.
 
-Lime Light 
- Proceed to any lime space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Lime Light
+ Proceed to any lime space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Environmental Protest 
- Place this card on the board with three turn tokens on it. Prevent the development of any orange company while it’s in play. This card returns to your hand.  
+Environmental Protest
+ Place this card on the board with three turn tokens on it. Prevent the development of any orange company while it’s in play. This card returns to your hand.
 
-Feeding the Pandas 
- Proceed to the green bamboo forest. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Feeding the Pandas
+ Proceed to the green bamboo forest. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Nuclear Energy 
- 
+Nuclear Energy
 
-Jury Duty 
- Proceed to the next court. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
 
-Doctor’s Fees 
- Play this card immediately. Pay the Public Fund X for medical bills.  
+Jury Duty
+ Proceed to the next court. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Meager Inheritance 
- Play this card immediately. Collect X from the market.  
+Doctor’s Fees
+ Play this card immediately. Pay the Public Fund X for medical bills.
 
-Vast Inheritance 
- Play this card immediately. Collect X from the market.  
+Meager Inheritance
+ Play this card immediately. Collect X from the market.
 
-Ambush 
- Force at one of your properties can be used to attack another player.  
+Vast Inheritance
+ Play this card immediately. Collect X from the market.
 
-Foreign Investment 
- Choose an amount of money. Put that aside for X turns, and receive three times that amount.  
+Ambush
+ Force at one of your properties can be used to attack another player.
 
-Substance Possession 
- Go to jail for a minimum of X turns.  
+Foreign Investment
+ Choose an amount of money. Put that aside for X turns, and receive three times that amount.
 
-Yellow Brick Rode 
- Proceed to any yellow space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Substance Possession
+ Go to jail for a minimum of X turns.
 
-Train to Catch 
- Proceed to South East Rails. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Yellow Brick Rode
+ Proceed to any yellow space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Flight to Catch 
- Proceed to North West Airways. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Train to Catch
+ Proceed to South East Rails. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Just Visiting 
- Proceed to the next precinct. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Flight to Catch
+ Proceed to North West Airways. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Take the Tour 
- Play this card after you have landed on a business or institution. Receive one knowledge token this turn.  
+Just Visiting
+ Proceed to the next precinct. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Pushed Back 
- Play this card immediately. Role one die, and move back the number of spaces shown. You may complete a transaction.  
+Take the Tour
+ Play this card after you have landed on a business or institution. Receive one knowledge token this turn.
 
-Back to School 
- Proceed to the next university. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Pushed Back
+ Play this card immediately. Role one die, and move back the number of spaces shown. You may complete a transaction.
 
-Seeing Red 
- Proceed to any red space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Back to School
+ Proceed to the next university. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Title 
- Proceed to any orange space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Seeing Red
+ Proceed to any red space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Title 
- Proceed to any teal space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Title
+ Proceed to any orange space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Title 
- Proceed to any purple space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Title
+ Proceed to any teal space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Title 
- Proceed to any pink space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Title
+ Proceed to any purple space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Title 
- Proceed to any tan space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Title
+ Proceed to any pink space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Title 
- Proceed to any brown space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.  
+Title
+ Proceed to any tan space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Times Up 
- Play this card at the star of a turn. Remove all turn tokens from a card in play.  
+Title
+ Proceed to any brown space. Do not collect institutional resources. If you’ve already made a transaction this turn, do not do another.
 
-Bonus Time 
- Play this card at the start of a turn. Add one turn token to a card in play.    
+Times Up
+ Play this card at the star of a turn. Remove all turn tokens from a card in play.
 
-Double Time 
- Play this card at the start of a turn. Double the number of turn tokens on a card in play.    
+Bonus Time
+ Play this card at the start of a turn. Add one turn token to a card in play.
 
-Version Up 
- If you have a technology token, receive another from the market.  
+Double Time
+ Play this card at the start of a turn. Double the number of turn tokens on a card in play.
 
-Extension 
- Double the remaining turns on all outstanding loans.  
+Version Up
+ If you have a technology token, receive another from the market.
 
-Tripple Yield 
- Receive triple the value from the Public Fund for all bonds cashed in this turn.  
+Extension
+ Double the remaining turns on all outstanding loans.
 
-Market Correction 
- Remove one event card that’s in play, and reverse its effect.  
+Triple Yield
+ Receive triple the value from the Public Fund for all bonds cashed in this turn.
 
-Secret Tunnel 
- Jump to the space directly across the board.  
+Market Correction
+ Remove one event card that’s in play, and reverse its effect.
 
-Take 2 
- Draw an additional two action cards.  
+Secret Tunnel
+ Jump to the space directly across the board.
+
+Take 2
+ Draw an additional two action cards.
