@@ -6,6 +6,7 @@
 
 [![license](https://img.shields.io/github/license/andrewtavis/society)](https://github.com/andrewtavis/society/blob/main/LICENSE.txt)
 [![coc](https://img.shields.io/badge/coc-Contributor%20Covenant-ff69b4.svg)](https://github.com/andrewtavis/society/blob/main/.github/CODE_OF_CONDUCT.md)
+[![codestyle](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ### A board game that mixes Settlers of Catan and Monopoly
 
@@ -19,10 +20,11 @@
 - [Cards](#cards)
 - [Resources](#resources)
 - [The Market](#the-market)
+- [To-Do](#to-do)
 
 # Description [`⇧`](#contents) <a id="description"></a>
 
-**Society** is a version of Monopoly that adds elements of Settlers of Catan for social interaction and teamwork. Discussions of how it could work can take place in the [Issues](https://github.com/andrewtavis/society/issues). [resources/society_designs.sketch](https://github.com/andrewtavis/society/blob/main/resources/society_designs.sketch) is a full [Sketch](https://www.sketch.com/) file that has baseline designs for the board, cards, bills, and other game elements. [resources/cards](https://github.com/andrewtavis/society/blob/main/resources/cards/) further has files that describe potential action and event cards.
+**Society** is a version of Monopoly that adds elements of Settlers of Catan for social interaction and teamwork. Discussions of how it could work can take place in the [Issues](https://github.com/andrewtavis/society/issues). [components/society_designs.sketch](https://github.com/andrewtavis/society/blob/main/components/society_designs.sketch) is a full [Sketch](https://www.sketch.com/) file that has baseline designs for the board, cards, bills, and other game elements. [components/cards](https://github.com/andrewtavis/society/blob/main/components/cards/) further has text files that describe potential action and event cards as well as [Inkscape](https://inkscape.org/) and [Python script](https://github.com/andrewtavis/society/blob/main/scripts/) generated versions of the cards.
 
 # Board [`⇧`](#contents) <a id="board"></a>
 
@@ -113,3 +115,7 @@ The institutional resources are knowledge, influence, health and force. Each of 
 <br />
 
 The most complicated part of Society is the market, which in turn adds one of the more interesting and educational elements to the game. The Market determines the prices for certain resources, with prices being effected by events in the game. All physical resources are necessary for play, as well as knowledge and influence that are required to upgrade companies and institutions. All other aspects of the game are optional.
+
+# To-Do [`⇧`](#contents) <a id="to-do"></a>
+
+Work that is in progress or could be implemented is tracked in the [Issues](https://github.com/andrewtavis/society/issues). Please see the [contribution guidelines](https://github.com/andrewtavis/society/blob/main/CONTRIBUTING.md) if you are interested in contributing to Society.
