@@ -1,16 +1,21 @@
 """
-Generates PDFs and PNGs of cards from .txt files
+Generates PDFs and PNGs of cards from .svg files
 """
 
 import os
+from sys import platform
 
-for fname in os.listdir("../resources/cards/generated"):
-    if fname.endswith(".svg"):
-        basename = fname[:-4]
-        for ext in ["pdf", "png"]:
-            os.system(
-                (
-                    "inkscape ../resources/cards/generated/{} "
-                    + "--export-filename=../resources/cards/generated/{}/{}.{}"
-                ).format(fname, ext, basename, ext)
-            )
+if platform == "darwin":  # OSX
+    inkscape_prompt = "/Applications/Inkscape.app/Contents/MacOS/inkscape"
+else:
+    inkscape_prompt = "inkscape"
+
+for fname in os.listdir("../components/cards/svg"):
+    basename = fname[:-4]
+    for ext in ["pdf", "png"]:
+        os.system(
+            (
+                "{} ../components/cards/svg/{} "
+                + "--export-filename=../components/cards/{}/{}.{}"
+            ).format(inkscape_prompt, fname, ext, basename, ext)
+        )
