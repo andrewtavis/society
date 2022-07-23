@@ -2,13 +2,13 @@
   <a href="https://github.com/andrewtavis/society"><img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/society_logo_transparent.png" width="498" height="126"></a>
 </div>
 
----
+<ol></ol>
 
 [![license](https://img.shields.io/github/license/andrewtavis/society)](https://github.com/andrewtavis/society/blob/main/LICENSE.txt)
 [![coc](https://img.shields.io/badge/coc-Contributor%20Covenant-ff69b4.svg)](https://github.com/andrewtavis/society/blob/main/.github/CODE_OF_CONDUCT.md)
 [![codestyle](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-### A board game that mixes Settlers of Catan and Monopoly
+## A board game that mixes Settlers of Catan and Monopoly
 
 # **Contents**<a id="contents"></a>
 
