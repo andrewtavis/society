@@ -8,7 +8,7 @@
 [![coc](https://img.shields.io/badge/coc-Contributor%20Covenant-ff69b4.svg)](https://github.com/andrewtavis/society/blob/main/.github/CODE_OF_CONDUCT.md)
 [![codestyle](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-## A board game that mixes Settlers of Catan and Monopoly
+### A board game that mixes Settlers of Catan and Monopoly
 
 # **Contents**<a id="contents"></a>
 
