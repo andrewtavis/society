@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Contributing to Society
 
 Thank you for your consideration in contributing to this project!
@@ -6,17 +8,23 @@ Please take a moment to review this document in order to make the contribution p
 
 Following these guidelines helps to communicate that you respect the time of the contributors managing and developing this open source project. In return, and in accordance with this project's [code of conduct](https://github.com/andrewtavis/Society/blob/main/.github/CODE_OF_CONDUCT.md), other contributors will reciprocate that respect in addressing your issue or assessing patches and features.
 
+# Contents
+
+- [Using the issue tracker](#using-the-issue-tracker-)
+- [Feature requests](#feature-requests-)
+- [Pull requests](#pull-requests-)
+
 ## Using the issue tracker
 
 The [issue tracker for Society](https://github.com/andrewtavis/Society/issues) is the preferred channel for [features requests](#feature-requests) and [submitting pull requests](#pull-requests).
 
-<a name="feature-requests"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
 ## Feature requests
 
 Feature requests are more than welcome! Please take a moment to find out whether your idea fits with the scope and aims of the project. When making a suggestion, provide as much detail and context as possible, and further make clear the degree to which you would like to contribute in its development.
 
-<a name="pull-requests"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
 ## Pull requests
 
@@ -67,3 +75,5 @@ When making a contribution, adhering to the [GitHub flow](https://guides.github.
 7. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description.
 
 Thank you in advance for your contributions!
+
+<sub><a href="#top">Back to top.</a></sub>

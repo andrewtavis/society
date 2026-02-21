@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div align="center">
   <a href="https://github.com/andrewtavis/society"><img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/society_logo_transparent.png" width="498" height="126"></a>
 </div>
@@ -10,7 +12,7 @@
 
 ### A board game that mixes Settlers of Catan and Monopoly
 
-# **Contents**<a id="contents"></a>
+# Contents
 
 - [Description](#description)
 - [Board](#board)
@@ -22,11 +24,13 @@
 - [The Market](#the-market)
 - [To-Do](#to-do)
 
-# Description [`⇧`](#contents) <a id="description"></a>
+# Description
 
 **Society** is a version of Monopoly that adds elements of Settlers of Catan for social interaction and teamwork. Discussions of how it could work can take place in the [Issues](https://github.com/andrewtavis/society/issues). [components/society_designs.sketch](https://github.com/andrewtavis/society/blob/main/components/society_designs.sketch) is a full [Sketch](https://www.sketch.com/) file that has baseline designs for the board, cards, bills, and other game elements. [components/cards](https://github.com/andrewtavis/society/blob/main/components/cards/) further has text files that describe potential action and event cards as well as [Inkscape](https://inkscape.org/) and [Python script](https://github.com/andrewtavis/society/blob/main/scripts/) generated versions of the cards.
 
-# Board [`⇧`](#contents) <a id="board"></a>
+<sub><a href="#top">Back to top.</a></sub>
+
+# Board
 
 <br />
 
@@ -40,7 +44,9 @@ The Society board is split up based on cardinal directions oriented around the g
 
 Along the edge of the inner board are numbers that indicate the current turn. This allows players to choose a turn limit before play, that events should happen at a given turn, provide players with an action card at a given turn, etc.
 
-# Play [`⇧`](#contents) <a id="play"></a>
+<sub><a href="#top">Back to top.</a></sub>
+
+# Play
 
 A fundamental decision at the start of Society was that everything can be owned privately or publicly. Think of this in terms of playing Monopoly, but one of the players could own the jail. The full details of how private and public ownership of companies and institutions have yet to be decided on, but the current idea is that in private ownership a player pays another for resources, and in public ownership the costs would go to the middle of the board. These communal funds and resources could then be used to upgrade public companies and institutions. Public ownership would be triggered by a player not wanting to buy something that they had landed on, with communal funds then being used to buy it if a majority of players agree to purchase it publicly. In this way there can be both public and private companies and most importantly institutions, thus simulating all baseline aspects of an economy.
 
@@ -52,11 +58,15 @@ Players can also choose the difficulty of the game at the start. This would enta
 
 There are many aspects of play that are yet to be decided on. Feel free to check the [Issues](https://github.com/andrewtavis/society/issues) or make one of your own to discuss further.
 
-# Winning [`⇧`](#contents) <a id="winning"></a>
+<sub><a href="#top">Back to top.</a></sub>
+
+# Winning
 
 There are many ways to win in Society. The baseline condition to victory would be having the most resources at the end of the game's turn limit, with this including the resources used to upgrade ones companies and institutions. If playing with health, if all other players have died then the survivor would also be the winner. There is the potential to also add victory conditions such as goals that a player needs to achieve in order to win.
 
-# Components [`⇧`](#contents) <a id="components"></a>
+<sub><a href="#top">Back to top.</a></sub>
+
+# Components
 
 <br />
 
@@ -68,7 +78,9 @@ There are many ways to win in Society. The baseline condition to victory would b
 
 Components for Society would be a pair of dice, player tokens, bills, tokens that represent resources, cards that describe events in the game or actions that players can take, a market board that describes the current prices of certain resources, cards that show ownership and upgrade steps for companies and institutions, tokens to mark the upgrade level of a company or institution, and markers to show ownership of companies or institutions.
 
-# Cards [`⇧`](#contents) <a id="cards"></a>
+<sub><a href="#top">Back to top.</a></sub>
+
+# Cards
 
 <br />
 
@@ -86,7 +98,9 @@ Event cards are represented by the `?` symbol. They are played instantly, with p
 
 Action cards are represented by the `!` symbol. These cards are held in a player's hand and played throughout the game. Certain cards could necessarily be played during a player's turn, while others could be played at other times to disrupt the turns of others.
 
-# Resources [`⇧`](#contents) <a id="resources"></a>
+<sub><a href="#top">Back to top.</a></sub>
+
+# Resources
 
 <br />
 
@@ -104,7 +118,9 @@ The physical resources are materials, products, energy and technology. Each is n
 
 The institutional resources are knowledge, influence, health and force. Each of these is used in varying ways throughout play, with knowledge and influence being predominantly used to develop companies or institutions, health being needed to stay alive or out of a hospital, and force being used to defend companies, institutions, or player tokens.
 
-# The Market [`⇧`](#contents) <a id="the-market"></a>
+<sub><a href="#top">Back to top.</a></sub>
+
+# The Market
 
 <br />
 
@@ -116,6 +132,10 @@ The institutional resources are knowledge, influence, health and force. Each of 
 
 The most complicated part of Society is the market, which in turn adds one of the more interesting and educational elements to the game. The Market determines the prices for certain resources, with prices being effected by events in the game. All physical resources are necessary for play, as well as knowledge and influence that are required to upgrade companies and institutions. All other aspects of the game are optional.
 
-# To-Do [`⇧`](#contents) <a id="to-do"></a>
+<sub><a href="#top">Back to top.</a></sub>
+
+# To-Do
 
 Work that is in progress or could be implemented is tracked in the [Issues](https://github.com/andrewtavis/society/issues). Please see the [contribution guidelines](https://github.com/andrewtavis/society/blob/main/CONTRIBUTING.md) if you are interested in contributing to Society.
+
+<sub><a href="#top">Back to top.</a></sub>
