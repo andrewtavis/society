@@ -1,19 +1,20 @@
 <a id="top"></a>
 
 <div align="center">
-  <a href="https://github.com/andrewtavis/society"><img src="https://raw.githubusercontent.com/andrewtavis/society/main/resources/society_logo_transparent.png" width="498" height="126"></a>
+  <a href="https://codeberg.org/andrewtavis/society"><img src="https://codeberg.org/andrewtavis/society/raw/branch/main/resources/society_logo_transparent.png" width="498" height="126"></a>
 </div>
 
 <ol></ol>
 
-[![license](https://img.shields.io/github/license/andrewtavis/society)](https://github.com/andrewtavis/society/blob/main/LICENSE.txt)
-[![coc](https://img.shields.io/badge/coc-Contributor%20Covenant-ff69b4.svg)](https://github.com/andrewtavis/society/blob/main/.github/CODE_OF_CONDUCT.md)
+[![license](https://img.shields.io/github/license/andrewtavis/society)](https://codeberg.org/andrewtavis/society/src/branch/main/LICENSE.txt)
+[![coc](https://img.shields.io/badge/coc-Contributor%20Covenant-ff69b4.svg)](https://codeberg.org/andrewtavis/society/src/branch/main/.forgejo/CODE_OF_CONDUCT.md)
 [![codestyle](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ### A board game that mixes Settlers of Catan and Monopoly
 
 # Contents
 
+- [Maintenance](#maintenance)
 - [Description](#description)
 - [Board](#board)
 - [Play](#play)
@@ -24,9 +25,13 @@
 - [The Market](#the-market)
 - [To-Do](#to-do)
 
+# Maintenance
+
+`Society` is maintained at [codeberg.org/andrewtavis/society](https://codeberg.org/andrewtavis/society). Please visit this remote repository for issues and pull requests.
+
 # Description
 
-**Society** is a version of Monopoly that adds elements of Settlers of Catan for social interaction and teamwork. Discussions of how it could work can take place in the [Issues](https://github.com/andrewtavis/society/issues). [components/society_designs.sketch](https://github.com/andrewtavis/society/blob/main/components/society_designs.sketch) is a full [Sketch](https://www.sketch.com/) file that has baseline designs for the board, cards, bills, and other game elements. [components/cards](https://github.com/andrewtavis/society/blob/main/components/cards/) further has text files that describe potential action and event cards as well as [Inkscape](https://inkscape.org/) and [Python script](https://github.com/andrewtavis/society/blob/main/scripts/) generated versions of the cards.
+**Society** is a version of Monopoly that adds elements of Settlers of Catan for social interaction and teamwork. Discussions of how it could work can take place in the [Issues](https://codeberg.org/andrewtavis/society/issues). [components/society_designs.sketch](https://codeberg.org/andrewtavis/society/src/branch/main/components/society_designs.sketch) is a full [Sketch](https://www.sketch.com/) file that has baseline designs for the board, cards, bills, and other game elements. [components/cards](https://codeberg.org/andrewtavis/society/src/branch/main/components/cards/) further has text files that describe potential action and event cards as well as [Inkscape](https://inkscape.org/) and [Python script](https://codeberg.org/andrewtavis/society/src/branch/main/scripts/) generated versions of the cards.
 
 <sub><a href="#top">Back to top.</a></sub>
 
@@ -35,7 +40,7 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/society_board.png" width="650" height="650">
+  <img src="https://codeberg.org/andrewtavis/society/raw/branch/main/components/png/society_board.png" width="650" height="650">
 </div>
 
 <br />
@@ -56,7 +61,7 @@ As in Monopoly, companies and institutions can be upgraded, which then allows th
 
 Players can also choose the difficulty of the game at the start. This would entail not including some of the institutional resources (health, force, transfer costs, taxes, etc), which would further remove certain cards from the game.
 
-There are many aspects of play that are yet to be decided on. Feel free to check the [Issues](https://github.com/andrewtavis/society/issues) or make one of your own to discuss further.
+There are many aspects of play that are yet to be decided on. Feel free to check the [Issues](https://codeberg.org/andrewtavis/society/issues) or make one of your own to discuss further.
 
 <sub><a href="#top">Back to top.</a></sub>
 
@@ -71,7 +76,7 @@ There are many ways to win in Society. The baseline condition to victory would b
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/company_institution_cards.png" width="817" height="1158">
+  <img src="https://codeberg.org/andrewtavis/society/raw/branch/main/components/png/company_institution_cards.png" width="817" height="1158">
 </div>
 
 <br />
@@ -85,7 +90,7 @@ Components for Society would be a pair of dice, player tokens, bills, tokens tha
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/event_action_cards.png" width="750" height="250">
+  <img src="https://codeberg.org/andrewtavis/society/raw/branch/main/components/png/event_action_cards.png" width="750" height="250">
 </div>
 
 <br />
@@ -105,7 +110,7 @@ Action cards are represented by the `!` symbol. These cards are held in a player
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/resource_tokens.png" width="826" height="476">
+  <img src="https://codeberg.org/andrewtavis/society/raw/branch/main/components/png/resource_tokens.png" width="826" height="476">
 </div>
 
 <br />
@@ -125,7 +130,7 @@ The institutional resources are knowledge, influence, health and force. Each of 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewtavis/society/main/components/png/the_market.png" width="750" height="619">
+  <img src="https://codeberg.org/andrewtavis/society/raw/branch/main/components/png/the_market.png" width="750" height="619">
 </div>
 
 <br />
@@ -136,6 +141,6 @@ The most complicated part of Society is the market, which in turn adds one of th
 
 # To-Do
 
-Work that is in progress or could be implemented is tracked in the [Issues](https://github.com/andrewtavis/society/issues). Please see the [contribution guidelines](https://github.com/andrewtavis/society/blob/main/CONTRIBUTING.md) if you are interested in contributing to Society.
+Work that is in progress or could be implemented is tracked in the [Issues](https://codeberg.org/andrewtavis/society/issues). Please see the [contribution guidelines](https://codeberg.org/andrewtavis/society/src/branch/main/CONTRIBUTING.md) if you are interested in contributing to Society.
 
 <sub><a href="#top">Back to top.</a></sub>
